@@ -1,3 +1,16 @@
+samsungads.com
+events.samsungads.com
+config.samsungads.com
+static.doubleclick.net
+tvx.adgrx.com 
+samsungotn.net
+samsungrm.net
+samsung.net/ads
+gpm.samsungqbe.com
+log-config.samsungacr.com
+samsungacr.com
+samsungcloudsolution.com
+samsungcloudsolution.net
 *.xxnx.com
 *.9vids.com
 *.11vids.com
